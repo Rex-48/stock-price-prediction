@@ -1,0 +1,51 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# ---- Environment / Conda ----
+# Conda environment files (lockfiles you may want to keep manually)
+.env
+.venv
+env/
+venv/
+ENV/
+*.conda
+*.yaml.lock
+*.yml.lock
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- Data / Datasets ----
+data/
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.gz
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- OS / Misc ----
+.DS_Store
+Thumbs.db
+
+# ---- Cache ----
+*.cache
+__cache__/
+*.pytest_cache/
+*.ipynb_checkpoints/
