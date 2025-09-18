@@ -1,0 +1,24 @@
+# Core Libraries
+numpy
+pandas
+
+# Machine Learning / Deep Learning
+tensorflow==2.16.1   # Keras is included inside TensorFlow
+scikit-learn         # train_test_split, MinMaxScaler, metrics
+
+# Saving & Loading
+joblib
+
+# Visualization (commonly used in notebooks)
+matplotlib
+seaborn
+
+# Backend API (for UI integration)
+fastapi
+uvicorn[standard]
+
+# Environment management (optional but good practice)
+python-dotenv
+
+# Notebook Support
+jupyter
