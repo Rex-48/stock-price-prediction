@@ -1,7 +1,3 @@
-ChatGPT said:
-
-Here’s the full code you can copy-paste into a README.md file:
-
 # Stock Price Prediction Project  
 
 This project uses machine learning to predict stock prices based on historical market data.  
